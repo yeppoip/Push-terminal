@@ -3,3 +3,5 @@ Push terminal is an open source terminal made in python that has a few custom co
 dont mind if it says PanelOS-1 I couldn't figure out how to rename the file for it to change in visual studio 
 Push terminal.zip is for windows
 panelos-1.py is for linux
+
+NOTE you WILL need Python installed to be able to use it 
