@@ -5,3 +5,5 @@ Push terminal.zip is for windows
 panelos-1.py is for linux
 
 NOTE you WILL need Python installed to be able to use it 
+
+Push also has a package manager for more details visit https://github.com/yeppoip/skillet
