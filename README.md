@@ -4,6 +4,7 @@ dont mind if it says PanelOS-1 I couldn't figure out how to rename the file for 
 Push terminal.zip is for windows
 panelos-1.py is for linux
 
-NOTE you WILL need Python installed to be able to use it 
+NOTE you WILL need Lua, c, and GCC installed to be able to use it 
 
 Push also has a package manager for more details visit https://github.com/yeppoip/skillet
+PLEASE CHECK RELEASES BEFORE DOWNLOADING
